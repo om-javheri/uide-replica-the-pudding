@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://om-javheri.github.io/uide-replica-the-pudding/sitemap.xml
